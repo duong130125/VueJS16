@@ -1,39 +1,20 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Laptop X",
-      "image": "laptop-x.jpg",
-      "price": 1500,
-      "quantity": 10
+      "name": "Yến Sào Nha Trang",
+      "price": 888,
+      "quantity": 44,
+      "image": "https://vcdn1-dulich.vnecdn.net/2021/07/16/1-1626437591.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=i2M2IgCcw574LT-bXFY92g",
+      "date": "9/10/2024",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Smartphone Y",
-      "image": "smartphone-y.jpg",
-      "price": 800,
-      "quantity": 25
-    },
-    {
-      "id": 3,
-      "name": "Wireless Earbuds Z",
-      "image": "earbuds-z.jpg",
-      "price": 120,
-      "quantity": 50
-    },
-    {
-      "id": 4,
-      "name": "Gaming Monitor",
-      "image": "monitor-gaming.jpg",
-      "price": 300,
-      "quantity": 15
-    },
-    {
-      "name": "GPS 5",
-      "image": "gps5.jpg",
-      "price": 300,
-      "quantity": 15,
-      "id": 5
+      "name": "Yến Sào Phú Quốc",
+      "price": 999,
+      "quantity": 23,
+      "image": "https://media.istockphoto.com/id/1389128157/fr/photo/fruit-citronn%C3%A9-avec-feuille-isol%C3%A9e-citron-entier-et-demi-avec-des-feuilles-sur-fond-blanc.webp?b=1&s=612x612&w=0&k=20&c=6TJZlxitiKn9-f5qFXZ9H8pA6WOEyNkAxJ8wVbJ1Gtg=",
+      "date": "9/10/2024",
+      "id": 2
     }
   ]
 }
