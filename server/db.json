@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop X",
+      "image": "laptop-x.jpg",
+      "price": 1500,
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Y",
+      "image": "smartphone-y.jpg",
+      "price": 800,
+      "quantity": 25
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds Z",
+      "image": "earbuds-z.jpg",
+      "price": 120,
+      "quantity": 50
+    },
+    {
+      "id": 4,
+      "name": "Gaming Monitor",
+      "image": "monitor-gaming.jpg",
+      "price": 300,
+      "quantity": 15
+    },
+    {
+      "name": "GPS 5",
+      "image": "gps5.jpg",
+      "price": 300,
+      "quantity": 15,
+      "id": 5
+    }
+  ]
+}
